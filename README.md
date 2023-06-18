@@ -29,4 +29,6 @@ Step 4. Build A Rat EXE
 Step 5. Send It To Your Victim
 Step 6. Wait Until There Ip Pops Up In The Gui
 
-![Uploading 68747470733a2f2f692e696d6775722e636f6d2f4b626f6d45636f2e706e67.png…]()
+
+![rat](https://github.com/AsynccDev/AsyncRAT/assets/136993193/740a6618-12e3-4053-8130-b7240ebcaba3)
+
